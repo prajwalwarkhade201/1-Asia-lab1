@@ -1,0 +1,7 @@
+{
+  "name": "Asia",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
